@@ -1,0 +1,28 @@
+market,region,gross_sales_mln,drnk
+India,APAC,455.05,1
+"South Korea",APAC,131.86,2
+Philiphines,APAC,80.64,3
+Australia,APAC,59.15,4
+China,APAC,55.29,5
+Indonesia,APAC,48.12,6
+Newzealand,APAC,27.80,7
+Bangladesh,APAC,19.05,8
+Japan,APAC,17.34,9
+Pakistan,APAC,15.07,10
+"United Kingdom",EU,78.11,1
+France,EU,67.62,2
+Norway,EU,44.95,3
+Germany,EU,41.25,4
+Spain,EU,38.96,5
+Italy,EU,38.10,6
+Portugal,EU,34.40,7
+Netherlands,EU,24.41,8
+Poland,EU,14.29,9
+Austria,EU,8.25,10
+Sweden,EU,4.40,11
+Mexico,LATAM,2.30,1
+Brazil,LATAM,2.14,2
+Chile,LATAM,1.46,3
+Columbia,LATAM,0.37,4
+USA,NA,264.46,1
+Canada,NA,89.78,2
